@@ -2,7 +2,7 @@
 
 # Retail Product Classification
 
-### Soft Pink Data Science Project
+### Data Science Project For UTS
 
 **Image Classification Using Convolutional Neural Network (CNN)**
 
