@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎀 Retail Product Classification
+# Retail Product Classification
 
 ### Soft Pink Data Science Project
 
