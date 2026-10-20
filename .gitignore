@@ -1,0 +1,22 @@
+# Dataset besar — tidak diunggah ke GitHub
+raw/
+data/
+
+# Environment Python
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# File sistem Mac
+.DS_Store
+
+# Model hasil training berukuran besar
+*.keras
+*.h5
+*.weights.h5
+
+# Output eksperimen
+output/
